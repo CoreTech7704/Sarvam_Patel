@@ -17,7 +17,7 @@ export const timeline: Timeline[] = [
       "Completed Bachelor of Engineering in Computer Science with practical exposure to full-stack development, databases, networking, Linux systems and software engineering concepts.",
 
     highlights: [
-      "CGPA: 8.16",
+      "CGPA: 8.44",
       "Built multiple academic and personal projects",
       "Focused on practical learning and experimentation",
       "Studied networking, operating systems and databases",
