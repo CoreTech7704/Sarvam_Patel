@@ -68,8 +68,6 @@ export const timeline: Timeline[] = [
       "Built personal projects to strengthen skills in frontend development, backend systems, authentication, APIs, databases and software architecture.",
 
     highlights: [
-      "VOIDWORK",
-
       "Swift News",
 
       "URL Shortener",

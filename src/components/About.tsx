@@ -51,7 +51,7 @@ export default function About() {
                 Beyond web development, I have a strong interest in
                 <span className="text-blue-400"> Linux systems</span>,
                 <span className="text-blue-400"> networking</span>,
-                <span className="text-blue-400"> computer hardware</span>
+                <span className="text-blue-400"> computer hardware </span>
                 and
                 <span className="text-blue-400"> PC building</span>. Exploring
                 technology beyond code helps me understand how software,
