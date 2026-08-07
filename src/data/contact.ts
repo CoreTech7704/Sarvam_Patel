@@ -6,7 +6,7 @@ export const contactMethods: ContactMethod[] = [
   {
     icon: FiGithub,
     label: "GitHub",
-    value: "github.com/sarvampatel",
+    value: "github.com/CoreTech7704",
     href: "https://github.com/CoreTech7704",
     gradient: "from-gray-600 to-gray-500",
     glow: "from-gray-600/15 to-gray-500/5",
