@@ -7,8 +7,7 @@ export const projects: Project[] = [
       "A modern full-stack blogging platform developed during my internship. Features authentication, markdown blogging, Redis caching, media uploads, role-based access control and a scalable backend architecture.",
 
     tags: ["React", "Node.js", "Express", "MongoDB", "Redis", "Cloudinary"],
-
-    liveUrl: "https://blog-frontend-steel-three.vercel.app/",
+    
     githubUrl: "https://github.com/yourusername/voidwork",
 
     featured: true,
