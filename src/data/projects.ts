@@ -8,7 +8,7 @@ export const projects: Project[] = [
 
     tags: ["React", "Node.js", "Express", "MongoDB", "Redis", "Cloudinary"],
     
-    githubUrl: "https://github.com/yourusername/voidwork",
+    githubUrl: "https://github.com/CoreTech7704/Blog-frontend",
 
     featured: true,
   },
@@ -56,7 +56,7 @@ export const projects: Project[] = [
 
     tags: ["C", "Cryptography", "Algorithms"],
 
-    githubUrl: "https://github.com/CoreTech7704/DES_Algorithem",
+    githubUrl: "https://github.com/CoreTech7704/DES_Algorithm",
   },
 
   {
